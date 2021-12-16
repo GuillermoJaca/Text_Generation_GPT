@@ -8,3 +8,5 @@ For better comprehension, the project will be divided as follows:
   -Train/Test Split and Tokenization
   
   -Model Finetuning and Generation
+
+You can find detailed information in my Medium Post: https://guilleuniversidadjaca.medium.com/data-acquisition-and-finetuning-for-text-generation-gpt-2-97c17ba54163
